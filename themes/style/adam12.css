@@ -311,7 +311,7 @@ blockquote {
   font-size: 2em;
   font-style: italic;
   padding: 1em 2em;
-  color: #000;
+  color: #fff;
   border-left: 5px solid #ccc;
 }
 blockquote p {
@@ -407,4 +407,9 @@ dl dd {
 }
 .slide.inverted p, .slide.inverted h1, .slide.inverted h2, .slide.inverted h3, .slide.inverted span, .slide.inverted a {
   color: #64c5c7;
+}
+
+ul.more-information {
+  list-style: none;
+  margin-left: 0;
 }
